@@ -1,4 +1,4 @@
 instatags
 =========
 
-Quick access to Instagram photos using your favourite tags
+Quick access to Instagram photos using your favourite tags.
